@@ -1,1 +1,1 @@
-Meu primeiro repositório, cópia do prime video em HTML, CSS E JS.
+Recriando a interface do prime video em HTML, CSS E JS.
